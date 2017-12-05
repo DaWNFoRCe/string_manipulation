@@ -63,7 +63,8 @@ UniquePermutation::~UniquePermutation(){
 //public functions:
 
 int UniquePermutation::doPermute(){
-    this->permute(Permutation::START_POSITION, this->input_);
+    this->counter_=1;
+    this->permute(Permutation::START_POSITION, this->input_);//calls permute using class state.
     return 1;
 };
 

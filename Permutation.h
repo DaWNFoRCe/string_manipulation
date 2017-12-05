@@ -25,7 +25,7 @@ class Permutation{
 protected:
     //protected state
     std::string input_; //String to be permuted
-    unsigned long counter_=1; //Permutation counter (per instance)
+    unsigned long counter_; //Permutation counter (per instance)
     
     //protected functions
     /**

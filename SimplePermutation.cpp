@@ -39,6 +39,7 @@ SimplePermutation::~SimplePermutation(){
 
 //public functions
 int SimplePermutation::doPermute(){
+       this->counter_=1;
     this->permute(Permutation::START_POSITION, this->input_); //calls permute using class state.
     return 1;
 };
