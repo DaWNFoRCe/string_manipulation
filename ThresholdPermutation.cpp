@@ -3,7 +3,6 @@
 //  string_manipulation
 //
 //  Created by Abdelrahaman Aly on 12/3/17.
-//  Copyright © 2017 Abdelrahaman Aly. All rights reserved.
 //
 
 #include <stdio.h>

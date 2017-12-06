@@ -3,7 +3,6 @@
 //  string_manipulation
 //
 //  Created by Abdelrahaman Aly on 11/30/17.
-//  Copyright © 2017 Abdelrahaman Aly. All rights reserved.
 //
 
 #ifndef UniquePermutation_h
