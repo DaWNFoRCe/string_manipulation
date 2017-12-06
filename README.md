@@ -49,11 +49,11 @@ Note that Permutation.h was also implemented from scratch, and contains a generi
     
     1. Compile the exercise: 
     
-          .. `g++ SimplePermutation.cpp -o SimplePermutation`
+          g++ SimplePermutation.cpp -o SimplePermutation
     
     2. Run the executable:
         
-          .. `./SimplePermutation`
+          ./SimplePermutation
     
     3. Follow the instructions:
     
