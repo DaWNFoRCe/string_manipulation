@@ -30,14 +30,22 @@ As requested, each cpp file contains its own main method and can be individually
 Note that Permutation.h was also implemented from scratch, and contains a generic-non logic repetitive declarations and code such as properties common for all mechanisms. Is an hybrid in between an interface and an abstract class.
 
 ## Specification:
-    -It only uses STL and every cpp is self-contained i.e. they do not require the other .cpp files to be compiled.
-    -Increases in complexity are clearly marked throughout the code for easy identification.
-    -Following the indications, I have opted for a cohesive approach (limited composition and coupling), because it would defeat the purpose of showcasing increasing complexity. cpps are self-conteined and increase of complexity can be better appreciated.
-    -All the implementations represent the exact behavior described by the task at hand.
-    -The use of more complex objects such as Hash related dictionaries was avoided to keep the code in line with STL.
-    -I am aware of the existence of std::next_iteration but opted not to use it to fulfil with the spirit of the exercise. How I tackle complexity. 
-    -The 2 implementations could print the excluded permutations. The code is commented, but it is clearly marked in case you decide to examine it.
-##Instructions: 
+   
+   -It only uses STL and every cpp is self-contained i.e. they do not require the other .cpp files to be compiled.
+   
+   -Increases in complexity are clearly marked throughout the code for easy identification.
+   
+   -Following the indications, I have opted for a cohesive approach (limited composition and coupling), because it would defeat the purpose of showcasing increasing complexity. cpps are self-conteined and increase of complexity can be better appreciated.
+   
+   -All the implementations represent the exact behavior described by the task at hand.
+   
+   -The use of more complex objects such as Hash related dictionaries was avoided to keep the code in line with STL.
+   
+   -I am aware of the existence of std::next_iteration but opted not to use it to fulfil with the spirit of the exercise. How I tackle complexity. 
+   
+   -The 2 implementations could print the excluded permutations. The code is commented, but it is clearly marked in case you decide to examine it.
+   
+## Instructions: 
     
     1. Compile the exercise: 
     
